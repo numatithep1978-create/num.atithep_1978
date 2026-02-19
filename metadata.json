@@ -1,0 +1,5 @@
+{
+  "name": "Antenna Status Analyzer",
+  "description": "An application to analyze aerial photographs of antennas to determine their status: Normal, Flashover, or Broken.",
+  "requestFramePermissions": ["camera"]
+}
